@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel 👋
+# Hi, I'm Gabriel!
 
 **Data Scientist** with a statistics background, specializing in survival analysis and applied ML. I build end-to-end tools from the statistical method to the deployed app people actually use.
 
