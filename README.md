@@ -1,8 +1,8 @@
-# Hi, I'm Gabriel!
+# Hi, I'm Gabriel 👋
 
-**Data Scientist** with a statistics background, specializing in survival analysis and applied ML. I build end-to-end tools — from the statistical method to the deployed app people actually use.
+**Data Scientist** with a statistics background, specializing in survival analysis and applied ML. I build end-to-end tools from the statistical method to the deployed app people actually use.
 
-- 📊 Statistician (BSc, UFRGS) turned data scientist; I bring rigorous modeling to ML problems
+- 📊 Statistician (BSc, UFRGS) and data scientist; I bring rigorous modeling to ML problems
 - 🚀 Shipped a survival-analysis dashboard on real oncology data: [**SurvControl**](https://github.com/GabrielGrandemagne/SurvControl) ([live demo](https://ggrandemagne.shinyapps.io/SurvControl2/))
 - 📦 Author of [**DepCens**](https://github.com/GabrielGrandemagne/DepCens), an R package on CRAN for dependent-censoring survival models
 - 🌱 Building in the open: applied ML projects beyond my day-to-day work
@@ -15,8 +15,11 @@
 **[SurvControl](https://github.com/GabrielGrandemagne/SurvControl)** · R / Shiny · [🔗 live demo](https://ggrandemagne.shinyapps.io/SurvControl2/)
 Interactive control panel for survival analysis on real oncology data (FOSP/São Paulo). Lets users explore covariate effects with Kaplan-Meier, Cox, frailty, and dependent-censoring models, including a breast-vs-ovarian cancer case study. My undergraduate thesis.
 
-**[DepCens](https://github.com/GabrielGrandemagne/DepCens)** · R · *on CRAN*
-Dependent-censoring regression for multivariate survival data, based on frailty-model extensions with Weibull and piecewise-exponential marginals. Documented, tested, with a [package website](https://gabrielgrandemagne.github.io/DepCens).
+**[DepCens](https://github.com/GabrielGrandemagne/DepCens)** · R · *on CRAN* · [📖 docs](https://gabrielgrandemagne.github.io/DepCens/)
+Dependent-censoring regression for multivariate survival data, based on frailty-model extensions with Weibull and piecewise-exponential marginals. Documented, tested, with a full [package website](https://gabrielgrandemagne.github.io/DepCens/).
+
+**[CureDepCens](https://github.com/GabrielGrandemagne/CureDepCens)** · R
+Cure-rate dependent-censoring regression for long-term survival data — models populations where a fraction of subjects never experience the event, while accounting for dependent censoring.
 
 ---
 
@@ -29,6 +32,7 @@ Dependent-censoring regression for multivariate survival data, based on frailty-
 ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat&logo=amazonsagemaker&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-447099?style=flat)
 
